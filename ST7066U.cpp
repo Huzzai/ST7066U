@@ -5,14 +5,14 @@
 const int RS = 8;
 const int RW = 9;
 const int EN = 10;
-const int D0 = 2;
-const int D1 = 3;
-const int D2 = 4;
-const int D3 = 5;
-const int D4 = 6;
-const int D5 = 7;
-const int D6 = 8;
-const int D7 = 9;
+const int D0 = 0;
+const int D1 = 1;
+const int D2 = 2;
+const int D3 = 3;
+const int D4 = 4;
+const int D5 = 5;
+const int D6 = 6;
+const int D7 = 7;
 
 /**
  *  Write to display when it is in 2-line mode
